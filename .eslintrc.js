@@ -19,6 +19,7 @@ module.exports = {
     "prefer-destructuring": [1],
     "padded-blocks": [0],
     "getter-return": [1],
-    "object-curly-newline": [1]
+    "object-curly-newline": [1],
+    "max-classes-per-file": [0]
   }
 };
