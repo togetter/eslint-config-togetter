@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/togetter/eslint-config-togetter#readme",
   "dependencies": {
-    "eslint": "^6.4.0",
+    "eslint": "^6.5.1",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.3.0",
     "eslint-plugin-prettier": "^3.1.1",
