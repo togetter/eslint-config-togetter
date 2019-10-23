@@ -1,8 +1,6 @@
 module.exports = {
-  plugins: ["prettier"],
-  extends: ["airbnb/base", "plugin:prettier/recommended"],
+  extends: ["airbnb-base"],
   rules: {
-    "prettier/prettier": "error",
     "no-underscore-dangle": [1],
     "class-methods-use-this": [0],
     "no-restricted-globals": [0],
